@@ -16,5 +16,5 @@ This project implements a simple auto-encoder net, followed with KMeans classifi
 The following files are included:
 1. MNIST_AutoEncoderBasedClassifier.py - my "script" code
 2. MNIST_AutoEncoderBasedClassifier.ipynb - Jupyter notebook 
-* Packages required: numpy, Keras, matplotlib, sklearn.  
+* Packages required: Numpy, Keras, Matplotlib, Sklearn.  
  
